@@ -90,6 +90,7 @@ main {
 .img {
     height: 500px;
     width: 300px;
+    position: relative;
 }
 .row {
     display: flex;
@@ -100,6 +101,18 @@ main {
 }
 .prezzo {
     color: red;
+}
+s {
+    color: black;
+}
+.sale {
+    border: 1px solid red;
+    background-color: red;
+    position: absolute;
+    left: 0;
+    bottom: 2rem;
+    padding-inline: 0.5rem;
+    color: white;
 }
     
 /*footer*/
