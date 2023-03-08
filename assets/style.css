@@ -134,7 +134,10 @@ s {
     right: 0;
     top: 0.5rem;
 }
-    
+.square:hover {
+    cursor: pointer;
+    color: red;
+}    
 /*footer*/
 
 .footbar {
