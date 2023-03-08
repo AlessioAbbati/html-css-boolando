@@ -45,4 +45,14 @@ i {
     margin-right: 0.3rem;
     cursor: pointer;
 }
+
+/*main*/
+
+main {
+    margin-top: 2rem;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
    
