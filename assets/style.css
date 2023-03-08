@@ -138,6 +138,25 @@ s {
     cursor: pointer;
     color: red;
 }    
+.shop1:hover {
+    background-image: url("../img/1b.webp");
+}
+.shop2:hover {
+    background-image: url("../img/2b.webp");
+}
+.shop3:hover {
+    background-image: url("../img/3b.webp");
+}
+.shop4:hover {
+    background-image: url("../img/4b.webp");
+}
+.shop5:hover {
+    background-image: url("../img/5b.webp");
+}
+.shop6:hover {
+    background-image: url("../img/6b.webp");
+}
+
 /*footer*/
 
 .footbar {
