@@ -114,6 +114,18 @@ s {
     padding-inline: 0.5rem;
     color: white;
 }
+.sus {
+    border: 1px solid green;
+    background-color: green;
+    position: absolute;
+    color: white;
+    padding-inline: 0.5rem;
+    left: 3.2rem;
+    bottom: 2rem;
+}
+.sus.sus2 {
+    left: 0;
+}
     
 /*footer*/
 
