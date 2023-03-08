@@ -10,6 +10,7 @@
 	margin-inline: auto;
 	padding-inline: 1rem;
 }
+
 /*header*/
 
 .navbar {
@@ -60,9 +61,33 @@ i {
 main {
     margin-top: 2rem;
 }
-.shop {
+.shop1 {
     background-image: url("../img/1.webp");
     background-size: cover;
+}
+.shop2 {
+    background-image: url("../img/2.webp");
+    background-size: cover;
+}
+.shop3 {
+    background-image: url("../img/3.webp");
+    background-size: cover;
+}
+.shop4 {
+    background-image: url("../img/4.webp");
+    background-size: cover;
+}
+.shop5 {
+    background-image: url("../img/5.webp");
+    background-size: cover;
+}
+.shop6 {
+    background-image: url("../img/6.webp");
+    background-size: cover;
+}
+.img {
+    height: 500px;
+    width: 300px;
 }
 .row {
     display: flex;
