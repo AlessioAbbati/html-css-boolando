@@ -45,11 +45,24 @@ i {
     margin-right: 0.3rem;
     cursor: pointer;
 }
+.logo {
+    background-image: url("../img/boolean-logo.png");
+    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 1.3rem;
+    width: 10%;
+    
+}
 
 /*main*/
 
 main {
     margin-top: 2rem;
+}
+.shop {
+    background-image: url("../img/1.webp");
+    background-size: cover;
 }
 .row {
     display: flex;
