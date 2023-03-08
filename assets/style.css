@@ -126,6 +126,14 @@ s {
 .sus.sus2 {
     left: 0;
 }
+.square {
+    border: 1px solid white;
+    background-color: white;
+    position: absolute;
+    padding: 0.5rem 0.5rem;
+    right: 0;
+    top: 0.5rem;
+}
     
 /*footer*/
 
