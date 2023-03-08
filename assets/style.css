@@ -55,4 +55,26 @@ main {
     display: flex;
     flex-direction: row;
 }
+
+/*footer*/
+
+.footbar {
+    height: 5rem; 
+	background-color: #1A1A1A; 
+    padding-top: 1rem;
+}
+
+.footbar .container {
+	display: flex;
+	justify-content: space-between;
+	align-items: stretch;
+	height: 100%;
+    color: white;
+}
+i {
+    margin-top: 0.5rem;
+}
+.header-list {
+    margin-top: 0.5rem;
+}
    
