@@ -1,0 +1,44 @@
+/*general*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    max-width: 1000px;
+	margin-inline: auto;
+	padding-inline: 1rem;
+}
+/*header*/
+
+.navbar {
+    height: 4rem; 
+	background-color: #FF6900; 
+}
+.navbar .container {
+	display: flex;
+	justify-content: space-between;
+	align-items: stretch;
+	height: 100%;
+    color: white;
+}
+.navbar .container > * {
+	display: flex;
+	align-items: center;
+    
+}
+li {
+    list-style: none;
+    margin-right: 0.5rem;
+}
+a {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+.header-list {
+    display: flex;
+    flex-direction: row;
+}
+   
